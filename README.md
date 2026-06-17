@@ -24,7 +24,9 @@ The analysis revealed that the traditional systems primarily follow a compliance
 **The key insights:** Several patterns consistently emerged across the onboarding systems analyzed.
 For traditional banking systems it involves multiple onboarding screens, repetitive authentication and OTP requests, high manual typing effort, abrupt VKYC transitions weak onboarding continuity, poor queue transparency, operationally heavy workflows. On the other hand, for fintech-based systems the common pattern identified was progressive onboarding, conversational UX, smart defaults, autofill systems, inline validations, One-question-per-screen design, strong psychological reassurance, reduced visible friction. One of the strongest insights from the research was that fintech platforms optimize not only actual onboarding effort, but also perceived effort and onboarding psychology.
 
-**The proposed product methodolgy** shall be focsed on fintech-firt onboarding philosophy while also mainataing the compliance integrity.  **The onboarding workflow** was redesigned to reduce interaction-heavy processes and simplify onboarding continuity while maintaining mandatory verification requirements.## Proposed Onboarding Workflow
+**The proposed product methodolgy** shall be focsed on fintech-firt onboarding philosophy while also mainataing the compliance integrity.  **The onboarding workflow** was redesigned to reduce interaction-heavy processes and simplify onboarding continuity while maintaining mandatory verification requirements.
+
+**Proposed Onboarding Workflow**
 
 ![Onboarding Workflow](assets/OnboardingFlow.png)
 
